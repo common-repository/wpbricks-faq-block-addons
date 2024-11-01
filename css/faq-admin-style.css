@@ -1,0 +1,29 @@
+.faqaddon-message-cls .notice-container {
+    padding: 18px 0 18px;
+    align-items: start;
+}
+
+.faqaddon-message-cls .notice-content {
+    margin-left: 15px;
+}
+
+.faqaddon-message-cls .notice-container {
+    display: flex;
+    justify-content: left;
+}
+
+.faqaddon-message-cls .custom-logo {
+    margin-left: 10px;
+    width: 75px;
+}
+
+.faqaddon-message-cls .notice-heading {
+    margin: 0 0 8px;
+    padding: 0;
+    font-weight: bolder;
+    font-size: 1.3em;
+    color: #2e4453;
+}
+.faqaddon-message-cls .notice-image {
+    align-self: center;
+}
